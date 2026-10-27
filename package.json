@@ -1,0 +1,19 @@
+{
+  "name": "modular-discord-bot",
+  "version": "1.0.0",
+  "description": "Modular Discord bot with ticket and application systems, JSON file storage",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "register": "node src/register.js",
+    "test": "node --test test/helpers.test.js test/control.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
