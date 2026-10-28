@@ -1,6 +1,6 @@
 'use strict';
 
-// Guild settings (channel/role bindings) stored in the single JSON database.
+// Guild settings (channel/role bindings) stored in data/settings.json.
 
 const DEFAULTS = {
   ticketCategoryId: null,
