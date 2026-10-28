@@ -1,7 +1,5 @@
 {
   "token": "YOUR_BOT_TOKEN",
   "clientId": "YOUR_APPLICATION_ID",
-  "guildId": "YOUR_SERVER_ID",
-  "dataDir": "data",
-  "transcriptDir": "data/transcripts"
+  "guildId": "OPTIONAL_GUILD_ID_FOR_INSTANT_COMMAND_REGISTRATION"
 }
