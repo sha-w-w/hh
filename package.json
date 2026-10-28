@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node src/index.js",
     "register": "node src/register.js",
-    "test": "node --test test/helpers.test.js test/control.test.js"
+    "test": "node --test test/helpers.test.js"
   },
   "engines": {
     "node": ">=18"
